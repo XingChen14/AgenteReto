@@ -1,0 +1,5 @@
+{
+    "java.projec.referencedLibraries":[
+        "lib/**/*.jar"
+    ]
+}
